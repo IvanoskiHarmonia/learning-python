@@ -13,6 +13,7 @@ Improving my skill in python
    `pip install -r requirements.txt`
 5. Run any of the programs by using the command
    `python path/to/file.py`
+   
    e.g. `python the_big_book_of_small_python_projects/1/1.py`
 
 ## The Big Book of Small Python Projects
